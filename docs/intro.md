@@ -35,16 +35,15 @@ title: 介绍
 - 1-8.[逻辑运算符](./p1/p1-8-logical.md)
 - 1-9.[循环](./p1/p1-9-loop.md)
 - 1-10.[字符串](./p1/p1-10-string.md)
-- 1-11.数组
-- 1-12.对象
-- 1-13.函数
-- 1-14.模块
+- 1-11.[阶段总结——如何开启编程自学？](./p1/p1-11-how-to-start-programming-self-study.md)
+- 1-12.[数组](./p1/p1-12-array.md)
+- 1-13.[对象](./p1/p1-13-object.md)
+- 1-14.[函数](./p1/p1-14-function.md)
+- 1-15.[模块](./p1/p1-15-module.md)
 
-### Mixin机器人篇
+### 项目篇
 
-- 2-1.熟悉消息结构
-- 2-2.熟悉SDK
-- 2-3.项目：英语学习助手
+- 2-1.[英语学习助手](./p2/engassociate.md)
 
 ### 作业
 
@@ -67,6 +66,7 @@ title: 介绍
 - [06.Snipaste: 一款截图神器](./extend/06.snipaste.md)
 - [07.Pull requests（简称 PR）](./extend/07.pull-request.md)
 - [08.如何给 CLI 设置全局变量](./extend/08.set-environment-variable-in-CLI.md)
+- [09.通过PicGo为Typora设置Github图床](./extend/09.assignment-submit-guide.md)
 
 :::tip 提示
 下面的内容原项目仓库为：https://github.com/neolee/pilot
